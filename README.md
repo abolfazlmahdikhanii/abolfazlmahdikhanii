@@ -121,14 +121,6 @@
 <img src="https://streak-stats.demolab.com/?user=abolfazlmahdikhanii&hide_border=true&background=00000000&ring=38BDF8&fire=FB8C28&currStreakLabel=38BDF8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="70%" alt="streak"/>
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abolfazlmahdikhanii/abolfazlmahdikhanii/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/abolfazlmahdikhanii/abolfazlmahdikhanii/output/github-contribution-grid-snake.svg" width="100%" alt="snake"/>
-</picture>
-</div>
 
 ## 🤝 Connect with Me
 
