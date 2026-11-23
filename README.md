@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:14455c,50:1e5f7e,100:38bdf8&section=header&text=Abolfazl%20Mahdikhani&fontSize=44&fontColor=ffffff&desc=Front-End%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descSize=16&descAlignY=72&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1E1B4B,50:4F46E5,100:818CF8&section=header&text=Abolfazl%20Mahdikhani&fontSize=44&fontColor=ffffff&desc=Front-End%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descSize=16&descAlignY=72&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://github.com/abolfazlmahdikhanii">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=38BDF8&center=true&vCenter=true&width=560&height=50&lines=Front-End+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript;Building+full-stack+products+since+2022" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=818CF8&center=true&vCenter=true&width=560&height=50&lines=Front-End+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript;Building+full-stack+products+since+2022" alt="typing"/>
 </a>
 
 <br/>
@@ -36,7 +36,7 @@
 </td>
 <td width="38%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abolfazlmahdikhanii&show_icons=true&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&include_all_commits=true&count_private=true" width="100%" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abolfazlmahdikhanii&show_icons=true&hide_border=true&bg_color=00000000&title_color=818CF8&text_color=c9d1d9&icon_color=818CF8&include_all_commits=true&count_private=true" width="100%" alt="stats"/>
 
 </td>
 </tr>
@@ -59,13 +59,13 @@
 **Back-End & Databases**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,mysql" alt="back-end"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase" alt="back-end"/>
 </a>
 
 **Tools & Deployment**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel" alt="tools"/>
 </a>
 
 **Also working with**
@@ -76,7 +76,7 @@
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 ![HeroUI](https://img.shields.io/badge/HeroUI-00A19A?style=flat-square)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![ImageKit](https://img.shields.io/badge/ImageKit-1e5f7e?style=flat-square)
+![ImageKit](https://img.shields.io/badge/ImageKit-4F46E5?style=flat-square)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)
 
@@ -95,7 +95,7 @@ Twitter/X-style social platform — real-time notifications, cursor-based infini
 `Next.js 16` `React 19` `MongoDB` `TanStack Query`
 
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abolfazlmahdikhanii/twitifa)
-[![Demo](https://img.shields.io/badge/Live_Demo-1e5f7e?style=flat-square&logo=vercel&logoColor=white)](https://twitifa.vercel.app)
+[![Demo](https://img.shields.io/badge/Live_Demo-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://twitifa.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -107,7 +107,7 @@ Persian RTL personal finance manager — Jalali calendar, linked Convex records,
 `TypeScript` `React` `Convex` `AI SDK`
 
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abolfazlmahdikhanii/maliyar)
-[![Demo](https://img.shields.io/badge/Live_Demo-1e5f7e?style=flat-square&logo=vercel&logoColor=white)](https://maliyar.vercel.app)
+[![Demo](https://img.shields.io/badge/Live_Demo-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://maliyar.vercel.app)
 
 </td>
 </tr>
@@ -121,7 +121,7 @@ Real-estate rental platform — listings CRUD, favorites, comparison, visit sche
 `Next.js` `MongoDB` `SWR` `JWT`
 
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abolfazlmahdikhanii/rentify)
-[![Demo](https://img.shields.io/badge/Live_Demo-1e5f7e?style=flat-square&logo=vercel&logoColor=white)](https://rentify-kbax.vercel.app)
+[![Demo](https://img.shields.io/badge/Live_Demo-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://rentify-kbax.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -133,7 +133,7 @@ Real-time chat app — Supabase subscriptions with Row Level Security, accept/re
 `React` `Vite` `Supabase` `WaveSurfer.js`
 
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abolfazlmahdikhanii/chatgram)
-[![Demo](https://img.shields.io/badge/Live_Demo-1e5f7e?style=flat-square&logo=vercel&logoColor=white)](https://chatgram-seven.vercel.app)
+[![Demo](https://img.shields.io/badge/Live_Demo-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://chatgram-seven.vercel.app)
 
 </td>
 </tr>
@@ -147,7 +147,7 @@ SSR/SSG blog with three roles (Admin, Author, Reader) — comments, likes, bookm
 `Next.js` `MongoDB` `Tailwind CSS` `shadcn/ui`
 
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abolfazlmahdikhanii/digi-blog)
-[![Demo](https://img.shields.io/badge/Live_Demo-1e5f7e?style=flat-square&logo=vercel&logoColor=white)](https://digi-blog-one.vercel.app)
+[![Demo](https://img.shields.io/badge/Live_Demo-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://digi-blog-one.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -159,7 +159,7 @@ Responsive NFT marketplace landing page with slider and scroll animations — pu
 `HTML` `CSS` `JavaScript`
 
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abolfazlmahdikhanii/nft-site-design)
-[![Demo](https://img.shields.io/badge/Live_Demo-1e5f7e?style=flat-square&logo=vercel&logoColor=white)](https://nft-site-design.vercel.app)
+[![Demo](https://img.shields.io/badge/Live_Demo-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://nft-site-design.vercel.app)
 
 </td>
 </tr>
@@ -169,13 +169,13 @@ Responsive NFT marketplace landing page with slider and scroll animations — pu
 
 <table>
 <tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=abolfazlmahdikhanii&show_icons=true&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&include_all_commits=true&count_private=true" width="100%" alt="stats"/></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazlmahdikhanii&layout=compact&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=c9d1d9" width="100%" alt="languages"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=abolfazlmahdikhanii&show_icons=true&hide_border=true&bg_color=00000000&title_color=818CF8&text_color=c9d1d9&icon_color=818CF8&include_all_commits=true&count_private=true" width="100%" alt="stats"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazlmahdikhanii&layout=compact&hide_border=true&bg_color=00000000&title_color=818CF8&text_color=c9d1d9" width="100%" alt="languages"/></td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=abolfazlmahdikhanii&hide_border=true&background=00000000&ring=38BDF8&fire=FB8C28&currStreakLabel=38BDF8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="70%" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=abolfazlmahdikhanii&hide_border=true&background=00000000&ring=818CF8&fire=FB8C28&currStreakLabel=818CF8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="70%" alt="streak"/>
 </div>
 
 ## 🐍 Contribution Snake
@@ -187,4 +187,4 @@ Responsive NFT marketplace landing page with slider and scroll animations — pu
 </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:38bdf8,100:14455c&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:818CF8,100:1E1B4B&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="footer"/>
